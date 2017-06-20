@@ -1,0 +1,11 @@
+## Interface: 11200
+## Author: shirsig
+## Title: crafty
+## Notes: Profession window extension
+## Notes-ruRU: Удобный поиск в окне профессий. Возможность отправки реагентов в каналы чата.
+## Version: 1.0
+## LoadOnDemand: 1
+## LoadWith: Blizzard_TradeSkillUI, Blizzard_CraftUI
+
+Localization.lua
+crafty.lua
